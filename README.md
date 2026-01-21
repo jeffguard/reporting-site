@@ -1,3 +1,4 @@
 # reporting-site
 
 This site is an internal Bug Bounty / Vulnerability Reporting Portal designed to document, track, and manage security vulnerabilities discovered during testing or assessment activities. It allows security researchers or internal teams to submit detailed vulnerability reports—including severity, affected assets, proof of concept, and impact—store them locally in the browser, mark issues as resolved with attribution, and generate a clean, client-ready HTML security report. The portal streamlines vulnerability organization, prioritization, and reporting without requiring a backend or external database, making it suitable for internal security workflows and engagements.
+<img width="1486" height="797" alt="Screenshot 2026-01-21 at 12 11 03" src="https://github.com/user-attachments/assets/6d62f3b0-58a2-47a4-87a4-ba9b973a9abc" />
